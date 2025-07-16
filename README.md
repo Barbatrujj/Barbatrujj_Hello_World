@@ -1,2 +1,10 @@
 # H-ctor-Trujillo
-Hello World
+
+Name: Hector Trujillo;
+Discord: Hector Trujillo;
+email: hector.trujillo@salle.url.edu;
+github: Barbatrujj;
+.
+
+
+
